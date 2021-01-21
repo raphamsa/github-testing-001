@@ -2,7 +2,7 @@
 
 # Challenge Adding README.md to my project
 
-[View the live project here!] (https://raphamsa.github.io/github-testing-001/)
+View the live project [here!](https://raphamsa.github.io/github-testing-001/)
 
 ## This website contains many usefull links to one of the most important tools in web development.
 
